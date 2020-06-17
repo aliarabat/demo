@@ -7,3 +7,5 @@ I have fixed the problem
 second line
 
 ## A new Title
+
+## Get Started section 
